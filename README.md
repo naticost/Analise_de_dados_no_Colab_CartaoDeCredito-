@@ -26,10 +26,6 @@ Nossa abordagem técnica incorpora uma variedade de técnicas avançadas:
 
 4. **Análise Estatística**: Aplicamos técnicas estatísticas avançadas para extrair insights significativos dos dados, incluindo correlações e distribuições.
 
-5. **Modelagem Preditiva**: Implementamos modelos de aprendizado de máquina, como regressão logística e árvores de decisão, para prever o cancelamento de cartões com base em características dos clientes.
-
-6. **Avaliação de Modelos**: Avaliamos o desempenho dos nossos modelos utilizando métricas como precisão, recall e F1-score para garantir a robustez e confiabilidade das previsões.
-
 ## Resultados 📈📉
 
 Nossa análise revelou insights valiosos sobre o comportamento dos clientes e fatores que influenciam o cancelamento de cartões:
