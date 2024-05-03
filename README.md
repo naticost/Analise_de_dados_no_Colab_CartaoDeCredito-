@@ -40,5 +40,11 @@ Nossa análise revelou insights valiosos sobre o comportamento dos clientes e fa
 
 
 - A quantidade e o valor das transações também têm um impacto significativo na probabilidade de cancelamento - clientes com transações mais frequentes e de maior valor tendem a cancelar menos.
+
+![Texto alternativo](QuantidadedeTransação.png)
+![Texto alternativo](ValoresdeTransação.png)
+
+
 - Curiosamente, observamos que um maior número de tentativas de contato com o cliente pode realmente aumentar a probabilidade de cancelamento, sugerindo a importância de abordagens mais personalizadas e direcionadas.
+![Texto alternativo](Contatos.png)
 
